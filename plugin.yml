@@ -1,0 +1,96 @@
+name: CushyPlugin
+main: mc.mainplugin.Main
+version: 1.11.2
+commands:
+  setspawn:
+    description: All Command
+    usage: /<command>
+    permission: mp.setspawn
+  spawn:
+    description: All Command
+  warps:
+    description: All Command
+  reg:
+    description: All Command
+  group:
+    description: All Command
+  veiwIP:
+    description: All Command
+  gm:
+    description: All Command
+  nick:
+    description: All Command
+  censor:
+    description: All Command
+  test:
+    description: All Command
+  speed:
+    description: All Command
+  fly:
+    description: All Command
+  hat:
+    description: All Command
+  cushy:
+    description: All Command
+  mute:
+    description: All Command
+  op:
+    description: All Command
+  deop:
+    description: All Command
+  pl:
+    description: All Command
+  view:
+    description: All Command
+  roks:
+    description: All Command
+  dels:
+    description: All Command
+  regarena:
+    description: All Command
+  heal:
+    description: All Command
+  sethome:
+    description: All Command
+  home:
+    description: All Command
+  hide:
+    description: All Command
+  tpa:
+    description: All Command
+  tpaccept:
+    description: All Command
+  tpaall:
+    description: All Command
+  tps:
+    description: All Command
+  tpadeny:
+    description: All Command
+  report:
+    description: All Command
+  chat:
+    description: All Command
+  warp:
+    description: All Command
+  setwarp:
+    description: All Command
+  delwarp:
+    description: All Command
+  listwarp:
+    description: All Command
+  cinv:
+    description: All Command
+  wh:
+    description: All Command
+  family:
+    description: All Command
+  fan:
+    description: All Command
+  marry:
+    description: All Command
+  fmyaccept:
+    description: All Command
+  csy:
+    description: All Command
+  csys:
+    description: All Command
